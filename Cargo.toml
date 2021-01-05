@@ -1,0 +1,8 @@
+[package]
+name = "switchbot-rs"
+version = "0.1.0"
+authors = ["youxkei"]
+edition = "2018"
+
+[dependencies]
+rumble = "0.3.0"
